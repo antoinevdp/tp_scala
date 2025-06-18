@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 18 15:46:47 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0197-834a-ce9a-00003e573358 
+on database directory /home/tonio/Workspace/EFREI/functional_programming/tp/metastore_db with class loader sun.misc.Launcher$AppClassLoader@15db9742 
+Loaded from file:/home/tonio/Workspace/EFREI/functional_programming/tp/target/bg-jobs/sbt_991e29f2/target/cbfec2d5/0b708d5e/derby-10.14.2.0.jar
+java.vendor=Arch Linux
+java.runtime.version=1.8.0_452-b09
+user.dir=/home/tonio/Workspace/EFREI/functional_programming/tp
+os.name=Linux
+os.arch=amd64
+os.version=6.14.4-arch1-1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
